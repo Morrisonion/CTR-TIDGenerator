@@ -1,14 +1,11 @@
-# HomebrewTitleIDGenerator
+# CTRTIDGenerator
 A simple generator for 3DS Homebrew TitleIDs while checking that you don't conflict with other Homebrew apps.
 
 ## Check it out
-https://premadegames.github.io/HomebrewTitleIDGenerator/
+https://morrisonion.github.io/ctrtidgenerator
 
-## API by
-* TitleDB.com
-
-## nus-info by
-* [DanTheMan827](https://github.com/DanTheMan827)
+## API
+* TID-API(includes universal-db and nus Title ID's)
 
 ## Tools
 * Bootstrap Grid-Only
